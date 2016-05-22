@@ -1,6 +1,6 @@
 import XCTest
-@testable import zlibTestSuite
+@testable import CzlibTestSuite
 
 XCTMain([
-	 testCase(zlibTests.allTests),
+	 testCase(CzlibTests.allTests),
 ])
