@@ -1,5 +1,4 @@
 module Czlib {
     umbrella "."
-    link "Czlib"
     export *
 }
