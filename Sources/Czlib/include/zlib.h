@@ -1,2 +1,1 @@
-#include <stdio.h>
-#include "../zlib.h"
+../zlib.h
