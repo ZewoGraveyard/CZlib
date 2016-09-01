@@ -13,5 +13,5 @@ SwiftPM-compatible fork of [zlib](https://github.com/madler/zlib) ([source commi
 ## Swift Package Manager
 
 ```swift
-.Package(url: "https://github.com/Zewo/zlib.git", majorVersion: 0, minor: 2)
+.Package(url: "https://github.com/Zewo/zlib.git", majorVersion: 0, minor: 3)
 ```
